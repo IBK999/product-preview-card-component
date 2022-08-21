@@ -6,3 +6,4 @@ This challenge is based on HTML & CSS
 ![](/design/mobile-design.jpg)
 
 # Desktop Preview
+![](/design/desktop-preview.png)
